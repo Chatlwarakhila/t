@@ -39,7 +39,3 @@ To run App, run the following command
 ```
 
 
-## Author
-
-- [@madhavsingh2002](https://github.com/madhavsingh2002)
-
